@@ -1,0 +1,24 @@
+{
+    "name": "koa-router-decrator",
+    "version": "0.0.1",
+    "description": "支持koa2使用装饰器模式生成路由的组件",
+    "main": "dist/index.js",
+    "repository": "ssh://git@github.com:SuuQi/koa-router-decrator.git",
+    "scripts": {
+        "dist": "tsc"
+    },
+    "keywords": [
+        "koa",
+        "nodejs",
+        "es7",
+        "decrator"
+    ],
+    "author": "15957136119@163.com",
+    "devDependencies": {
+        "typescript": "^2.9.1"
+    },
+    "dependencies": {
+        "@types/node": "^10.3.1",
+        "D": "^1.0.0"
+    }
+}
