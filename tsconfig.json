@@ -5,8 +5,7 @@
         "noImplicitAny": false,
         "moduleResolution": "node",
         "sourceMap": false,
-        "outDir":"./dist",
-        "baseUrl": ".",
-        "watch":true
+        "outDir": "./dist",
+        "baseUrl": "."
     }
 }
